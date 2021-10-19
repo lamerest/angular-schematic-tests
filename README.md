@@ -2,6 +2,7 @@
 To start project  do:
 
 ```bash
+npm install
 npm run build -- -w
 schematics .:snack-bar-component
 ```
