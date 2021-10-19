@@ -1,4 +1,10 @@
 # Getting Started
+
+Before start install schematics-cli. Run:
+```bash
+npm i @schematics/angular
+```
+
 To start project  do:
 
 ```bash
