@@ -1,3 +1,16 @@
+# Getting Started
+To start project  do:
+
+```bash
+npm run build -- -w
+schematics .:snack-bar-component
+```
+
+To actually create files do following:
+```bash
+schematics .:snack-bar-component --debug=false
+```
+
 # Getting Started With Schematics
 
 This repository is a basic Schematic implementation that serves as a starting point to create and publish Schematics to NPM.
