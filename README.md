@@ -2,7 +2,7 @@
 
 Before start install schematics-cli. Run:
 ```bash
-npm i @schematics/angular
+npm i @angular-devkit/schematics-cli
 ```
 
 To start project  do:
