@@ -1,0 +1,13 @@
+{
+  "$schema": "../node_modules/@angular-devkit/schematics/collection-schema.json",
+  "schematics": {  
+    "my-component": {
+      "description": "A blank schematic.",
+      "factory": "./my-component/index#myComponent"
+    },
+    "snack-bar-component": {
+      "description": "Schematic for snack bar component",
+      "factory": "./snack-bar-component/index#snackBarComponent"
+    }
+  }
+}
