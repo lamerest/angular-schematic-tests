@@ -17,6 +17,10 @@ To actually create files do following:
 ```bash
 schematics .:snack-bar-component --debug=false
 ```
+OR
+```bash
+schematics .:snack-bar-component --dry-run=false
+```
 
 # Getting Started With Schematics
 
